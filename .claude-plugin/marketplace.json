@@ -1,11 +1,11 @@
 {
-  "name": "millie-mods",
+  "name": "claude-shares",
   "owner": { "name": "Dan" },
-  "metadata": { "description": "Claude Code mods by Millie" },
+  "metadata": { "description": "Claude Code plugins and skills shared by Dan" },
   "plugins": [
     {
       "name": "turn-progress",
-      "source": "./",
+      "source": "./plugins/turn-progress",
       "description": "Live status bar above the prompt for each turn: thinking, working, answer, with a timeline pane"
     }
   ]
